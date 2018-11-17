@@ -1,0 +1,25 @@
+body{
+    color: #ffb0b0;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: black;
+
+}
+
+
+.main-heading{
+    font: bold;
+    font-family: cursive;
+    font-size: 65px;
+
+    
+}
+
+#second-heading{
+    font: cursive;
+    font-size: 30px;
+
+}
+
+p{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
